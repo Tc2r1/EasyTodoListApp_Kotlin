@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quick Todo List</string>
+    <string name="todo_title_hint">Enter ToDo Title</string>
+</resources>
